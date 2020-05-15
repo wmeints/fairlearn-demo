@@ -1,0 +1,24 @@
+{
+    "name": "Fairlearn demo",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "ms-python.python"
+    ],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "python.pythonPath": "/usr/local/bin/python",
+        "python.linting.enabled": true,
+        "python.linting.pylintEnabled": true,
+        "python.linting.pylintPath": "/usr/local/bin/pylint",
+        "python.dataScience.widgetScriptSources": [
+            "jsdelivr.com",
+            "unpkg.com"
+        ]
+    },
+    "forwardPorts": [
+        8889
+    ],
+    "postCreateCommand": "install.sh",
+    "remoteUser": "vscode"
+}
