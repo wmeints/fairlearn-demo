@@ -15,8 +15,8 @@ Your model can suffer from two different kinds of group fairness issues:
   For example, you're building a credit card scoring model. It's used to allocate a creditcard to customers.
   The model could deny creditcards more often for one group of users than it will for other groups.
 
-What does this demo demonstrate?
----------------------------------
+What does this repository demonstrate?
+---------------------------------------
 Imagine you're starting a new credit card company based on a data-driven approach. You want to use
 a machine learning model to score creditcard applications. People that are going to default their payments
 aren't going to get a creditcard from your company.
