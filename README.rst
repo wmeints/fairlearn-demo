@@ -12,7 +12,7 @@ Your model can suffer from two different kinds of group fairness issues:
   Your model could fail to work well for some groups of users with a particular skin color.
 
 * **Allocation**
-  Another interesting sample, you're building a credit card scoring model. It's used to allocate a creditcard to customers.
+  For example, you're building a credit card scoring model. It's used to allocate a creditcard to customers.
   The model could deny creditcards more often for one group of users than it will for other groups.
 
 What does this demo demonstrate?
