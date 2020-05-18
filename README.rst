@@ -40,8 +40,27 @@ We've created 4 notebooks for this scenario:
 
 Each notebook describes the individual steps and explains how the different components work together.
 
+System requirements
+--------------------
+To run this demo, you'll need:
+
+* `Python 3.7`_ 
+* Windows 10, Mac OS, or Linux
+
+If you're trying this demo on Windows, we recommend using Anaconda or Miniconda.
+
+Running the demo code
+----------------------
+Follow these steps to run the code:
+
+1. First, install the requirements for the notebooks: :code:`pip install -r requirements.txt`
+2. Next, start jupyter notebooks from the root of the repository: :code:`jupyter notebook`
+
+The notebooks are located in the :code:`notebooks` folder. You can the notebooks out of order.
+
 .. _fairlearn: http://fairlearn.org 
 .. _prepare-dataset.ipynb: notebooks/prepare-dataset.ipynb
 .. _train-model.ipynb: notebooks/train-model.ipynb
 .. _measure-fairness.ipynb: notebooks/measure-fairness.ipynb
 .. _improve-fairness.ipynb: notebooks/improve-fairness.ipynb
+.. _Python 3.7: https://www.anaconda.com/products/individual
