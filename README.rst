@@ -2,6 +2,8 @@ Fairlearn demo
 ===============
 Welcome to this repository. In this repository you'll find a demonstration of some of the capabilities that `fairlearn`_ offers.
 
+.. contents:: We'll cover the following topics in this README:
+
 What is fairness in fairlearn?
 -------------------------------
 There are many ways in which a model can be unfair. `fairlearn`_ aims to solve group fairness issues.
