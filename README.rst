@@ -17,7 +17,7 @@ Your model can suffer from two different kinds of group fairness issues:
 
 What does this demo demonstrate?
 ---------------------------------
-Imagine you're starting a new credit card company, based on data. You want to use
+Imagine you're starting a new credit card company based on a data-driven approach. You want to use
 a machine learning model to score creditcard applications. People that are going to default their payments
 aren't going to get a creditcard from your company.
 
