@@ -58,7 +58,8 @@ Follow these steps to run the code:
 1. First, install the requirements for the notebooks: :code:`pip install -r requirements.txt`
 2. Next, start jupyter notebooks from the root of the repository: :code:`jupyter notebook`
 
-The notebooks are located in the :code:`notebooks` folder. You can the notebooks out of order.
+The notebooks are located in the :code:`notebooks` folder. You can execute 
+the notebooks out of order.
 
 .. _fairlearn: http://fairlearn.org 
 .. _prepare-dataset.ipynb: notebooks/prepare-dataset.ipynb
